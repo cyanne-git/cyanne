@@ -3,14 +3,14 @@
 Hello! I am not quite a developer, but I will use GitHub to share source files from creative projects when it's appropriate.
 
 ## Social links
-[My YouTube channel](youtube.com/Cyanne)
+[My YouTube channel](https://www.youtube.com/channel/UC8UzAKqqLvfbqCvPc-j5oig)
 
-[My Twitter](twitter.com/CyanneVI)
+[My Twitter](https://twitter.com/CyanneVI)
 
-[My Patreon](patreon.com/Cyanne)
+[My Patreon](https://patreon.com/Cyanne)
 
-[My SoundCloud](soundcloud.com/Cyanne)
+[My SoundCloud](https://soundcloud.com/Cyanne)
 
-[My Bandcamp](cyanne.bandcamp.com)
+[My Bandcamp](https://cyanne.bandcamp.com)
 
-[My website](cyanne.net)
+[My website](https://cyanne.net)
