@@ -1,6 +1,6 @@
 # Cyanne
 
-Hello! I am not quite a developer, but I will use GitHub to share source files from creative projects when it's appropriate.
+Hello! I am not quite a developer, but I will use GitHub to share files related to creative projects when it's appropriate.
 
 ## Social links
 [My YouTube channel](https://www.youtube.com/channel/UC8UzAKqqLvfbqCvPc-j5oig)
