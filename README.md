@@ -1,10 +1,10 @@
 # Cyanne
 
-Helloes! 
+### Development blog
 
-I am not quite a developer, but I will use GitHub to share files related to creative projects when it's appropriate.
+🐇 [Cyanne's Debug Room](https://cyanne.substack.com)
 
-## Social links
+### Social links
 
 🐇 [My YouTube channel](https://www.youtube.com/channel/UC8UzAKqqLvfbqCvPc-j5oig)
 
