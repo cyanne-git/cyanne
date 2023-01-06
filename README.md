@@ -1,10 +1,10 @@
 # Cyanne
 
-### Development blog
+### Development
 
-🐇 [Cyanne's Debug Room](https://cyanne.substack.com)
+🐇 [Cyanne's Debug Room](https://cyanne.substack.com) on Substack
 
-🐇 [My gists](https://gist.github.com/Cyanne)
+🐇 [My gists](https://gist.github.com/Cyanne) on GitHub
 
 ### Social links
 
