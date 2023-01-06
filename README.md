@@ -4,6 +4,8 @@
 
 🐇 [Cyanne's Debug Room](https://cyanne.substack.com)
 
+🐇 [My gists](https://gist.github.com/Cyanne)
+
 ### Social links
 
 🐇 [My YouTube channel](https://www.youtube.com/channel/UC8UzAKqqLvfbqCvPc-j5oig)
