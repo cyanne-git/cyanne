@@ -2,9 +2,9 @@
 
 ### Development
 
-🐇 [Cyanne's Debug Room](https://cyanne.substack.com) on Substack
-
 🐇 [My gists](https://gist.github.com/Cyanne) on GitHub
+
+🐇 [Cyanne's Debug Room](https://cyanne.substack.com) on Substack
 
 ### Social links
 
