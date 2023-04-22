@@ -4,7 +4,7 @@
 
 🐇 [My gists](https://gist.github.com/Cyanne) on GitHub
 
-🐇 [Cyanne's Debug Room](https://cyanne.substack.com) on Substack
+🐇 [Cyanne's Debug Room](https://cyanne.study/s/debug-room) on Substack
 
 ### Social links
 
