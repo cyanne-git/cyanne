@@ -14,8 +14,6 @@
 
 🐇 [My Patreon](https://patreon.com/Cyanne)
 
-🐇 [My SoundCloud](https://soundcloud.com/Cyanne)
-
 🐇 [My Bandcamp](https://cyanne.bandcamp.com)
 
 🐇 [Personal website](https://cyanne.net)
