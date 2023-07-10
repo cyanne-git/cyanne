@@ -2,6 +2,6 @@
 
 ### Development
 
-🐇 [My gists](https://gist.github.com/Cyanne) on GitHub
+🐇 [Cyanne's Assembly Diary](https://cyanne.study/s/assembly-diary) on Cyanne's Studies
 
-🐇 [Cyanne's Debug Room](https://cyanne.study/s/debug-room) on Substack
+🐇 [Cyanne's Quest](https://quest.substack.com) (TBA)
