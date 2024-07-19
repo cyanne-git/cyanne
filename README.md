@@ -1,6 +1,6 @@
 # Cyanne
 
-### Development
+### Diaries
 
 🐇 [Cyanne's Assembly Diary](https://cyanne.study/s/assembly-diary) on Cyanne's Studies
 
